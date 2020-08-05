@@ -1,5 +1,7 @@
 Step left.
 Step right.
+Slide to the left.
+Slide to the right.
 Jump up and down.
 Twirl your hands.
 Oscillate your hips.
